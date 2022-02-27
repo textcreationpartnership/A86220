@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the queries proposed by the House of Commons to the Assembly of Divines; about the divine right of Church Government in answer to two main questions. First, whether is be expedient to the State and Church, that the Assembly of Divines should answer those questions yea or no? Secondly, in case to be expedient; how they should be answered satisfactorily both to the conscionable and unconscionable disputer of the matter. Shewing first, the necessity of giving an answerr [sic]. Secondly, some necessary requisites to make that answer satisfactory to all, and without exception. / Written for the private satisfaction of a friend, anno Dom. 1646. And now published for more common use, by an unpartiall lover of truth and peace.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86220</idno>
+            <idno type="STC">Wing H152</idno>
+            <idno type="STC">Thomason E428_10</idno>
+            <idno type="STC">ESTC R204608</idno>
+            <idno type="EEBO-CITATION">99864074</idno>
+            <idno type="PROQUEST">99864074</idno>
+            <idno type="VID">161475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the queries proposed by the House of Commons to the Assembly of Divines; about the divine right of Church Government in answer to two main questions. First, whether is be expedient to the State and Church, that the Assembly of Divines should answer those questions yea or no? Secondly, in case to be expedient; how they should be answered satisfactorily both to the conscionable and unconscionable disputer of the matter. Shewing first, the necessity of giving an answerr [sic]. Secondly, some necessary requisites to make that answer satisfactory to all, and without exception. / Written for the private satisfaction of a friend, anno Dom. 1646. And now published for more common use, by an unpartiall lover of truth and peace.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenothe at the signe of the Star neer Saint Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: W.H.</note>
+                  <note>Annotation on Thomason copy: "Feb: 22"; the 8 in imprint date crossed out and the date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161475:1" rendition="simple:additions"/>
+            <p>A DISCOURSE Concerning the <hi>Queries</hi> propoſed by the Houſe of Commons to the Aſſembly of Divines; about the divine right of <hi>Church</hi> Government in anſwer to two main Queſtions.</p>
+            <p>
+               <hi>Firſt, whether it be expedient to the State</hi> and Church, that the Aſſembly of Divines ſhould anſwer thoſe Queſtions yea or no?</p>
+            <p>
+               <hi>Secondly, in caſe it be expedient; How</hi> they ſhould be anſwered ſatisfactorily both to the conſcionable and unconſcionable Diſputer of the matter.</p>
+            <p>SHEWING</p>
+            <p>
+               <hi>Firſt, the neceſſity of giving an Anſwerr.</hi>
+            </p>
+            <p>
+               <hi>Secondly, ſome neceſſary Requiſites to make that Anſwer ſatisfactory to all, and without exception.</hi>
+            </p>
+            <p>
+               <hi>Written for the private ſatisfaction of a friend, Anno Dom.</hi> 1646.</p>
+            <p>
+               <hi>And now publiſhed for more common uſe, by an unpartiall Lover of TRUTH and PEACE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Wodenothe</hi> at the ſigne of the Star neer Saint <hi>Peters</hi> Church in Cornhill, 1648.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:161475:2"/>
+            <pb facs="tcp:161475:2"/>
+            <head>The Publiſher to the impartiall READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>Diſcourſe,</hi> gentle and im<g ref="char:EOLhyphen"/>partiall <hi>Reader,</hi> was written long agoe, that is, ſoon after the <hi>Queries</hi> were propoſed to the <hi>Aſſembly</hi> of <hi>Divines</hi> by the <hi>Houſe</hi> of <hi>Commons.</hi> And the reaſon why then it was not put forth by him to whom it was written, was perhaps the ſame which occaſioned the ſtopping of the <hi>Anſwer</hi> which the <hi>Aſſem<g ref="char:EOLhyphen"/>bly</hi> of <hi>Divines</hi> was then preparing to the <hi>Queries;</hi> namely, an <hi>Order</hi> of the <hi>Houſe</hi> ſent to the <hi>Aſſembly,</hi> bidding them forth<g ref="char:EOLhyphen"/>with
+<pb facs="tcp:161475:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:161475:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:161475:4"/>to proceed to the <hi>Confeſſion</hi> of <hi>Faith</hi> and <hi>Catechiſme,</hi> till they ſhould finiſh the ſame. It ſeemed by the <hi>Order</hi> that the <hi>Di<g ref="char:EOLhyphen"/>vines</hi> were taken off from anſwering thoſe <hi>Queries,</hi> and it is likely that thereupon the <hi>Authors</hi> friend to whom this <hi>Diſcourſe</hi> was ſent thought it needleſſe to publiſh it to the world.</p>
+            <p>But I having lately ſeen it; and knowing the <hi>Order</hi> (that an <hi>Anſwer</hi> ſhould be gi<g ref="char:EOLhyphen"/>ven to the <hi>Queries</hi>) to be renewed; becauſe I thought the <hi>Diſcourſe</hi> worthy of the conſi<g ref="char:EOLhyphen"/>deration of all that lay the <hi>Queries</hi> to heart, have uſed means to advance it to the <hi>Preſſe.</hi> My deſigne is chiefly to provoke ſuch as are in love with <hi>Truth,</hi> to follow the temper of this mans <hi>Spirit</hi> in the ſearch thereof. And then alſo to call upon the <hi>Author</hi> himſelfe, who hath offered theſe <hi>Advices</hi> unto others, that ſeeing <hi>he</hi> hath convincingly ſhewed that
+<pb facs="tcp:161475:4"/>a ſetled <hi>rule</hi> and <hi>method</hi> of <hi>interpretation</hi> is ſo neceſſary to find out the true ſenſe of the <hi>Scriptures,</hi> that therefore <hi>hee</hi> would <hi>(if he hath any Talent in this kind)</hi> diſcharg <hi>his conſcience</hi> by holding forth unto the <hi>chil<g ref="char:EOLhyphen"/>dren</hi> of <hi>Truth,</hi> that which <hi>he</hi> perhaps doth further know or hath <hi>elaborated</hi> concern<g ref="char:EOLhyphen"/>ing that <hi>Rule</hi> and <hi>Method</hi> then any other, <hi>it being a thing ſo far beyond either the thought or hope of moſt men. And cer<g ref="char:EOLhyphen"/>tainly nothing can be more uſefull to the compoſure of our</hi> Scriptural controverſies <hi>then this</hi> Rule, <hi>if it can be gained. There<g ref="char:EOLhyphen"/>fore ſuch as know the</hi> Author, <hi>and have any intereſt in him, ſhould preſſe him to enlarge himſelfe upon this</hi> Subject; <hi>but eſpecially in my humble opinion the</hi> hono rable houſe <hi>it ſelf ſhould be moved in ſome particular manner by their</hi> call <hi>to ſet him apart, and to enjoyn him thereunto, and give him all poſſible encouragement for
+<pb facs="tcp:161475:5"/>the perfecting of it, as a thing of great concernment, wherein he is a debtor to the</hi> Church <hi>of</hi> God, <hi>and to Them, and to the publike courſe of ſpiritual Learning.</hi>
+            </p>
+            <closer>
+               <signed>W. H.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>John Downame.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag. 1. line 17. Univerſall r. Univerſall, p. 5. l. 2. of thoſe truths, r. of thoſe main truths, p. 6. l. 31. be bound r. bound, p. 7. ancienſt r. ancient, l. 22. and anſwer, r. an anſwer, p. 8. l. 7. faith. r. belief, l. 11. which be propoſed, r. which ſhall be pro<g ref="char:EOLhyphen"/>poſed, p. 9. l. 24. entrance r. envy, p. 10. which they proceed to diſcover, r. they diſcover Truths, l. 29. held forth, r. hold forth. p. 11. l. 25. proceed univerſally ſit, r. proceed would be univerſally fit. p. 12. l. 14. from theſe, r. them. l. 33. anſwera<g ref="char:EOLhyphen"/>bly, r. anſwerable, p. 13. l 4 ſo different r. ſo many different, l. 27. who were, r. that are, l. 28. doubts in, r. doubt an, l. 28, 29. by which men, r. by which all men l. 30. my deciſion, r. any deciſion. l. 33. particular. r. particulars. p. 14. l. 10. ſim<g ref="char:EOLhyphen"/>ple, r. ſingle. l. 11. as that, r. as the, l. 20. of the one, r. in the one, l. 21. in their, r. by their.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161475:5"/>
+            <head>A DISCOVRSE Concerning the QUERIES propoſed by the Houſe of COMMONS, <hi>to the Aſſembly of Divines.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Orthy Sir, This State would be happy, if all that manage publike affairs did minde the true intereſt thereof with zeale and ſimplicity, as you doe. The great cauſe of our miſery is, that men of publike em<g ref="char:EOLhyphen"/>ployments have no publike ſpirits, few there are that walk in the light openly, according to the Royall Law of Li<g ref="char:EOLhyphen"/>berty; for almoſt all are ſnared in holes, and hid in priſon houſes. The holes are their private Intereſts, and Ends, without which, nothing, almoſt, is done for the Publike by any body, and the priſon houſes are the Parties to which they are engaged, for moſt men act by the rule of prejudice, rather to croſſe an oppoſite party, then to ad<g ref="char:EOLhyphen"/>vance the Univerſall good of all. Therfore matters which are named publike, are carryed rather by ſtrife and debate then in a peaceable way, and deſtruction is found to be the path of many, rather then edification in love. But ſeeing you are enabled to raiſe your minde above the thoughts of ſuch, as are led by the ſenſe of their fleſh to run into parties, and do not enquire ſo much after the miſcarriages of others, to lay them open, and to clamour againſt them before the World; as after the wayes of righteouſneſſe, whereby all may come unto the acknowledgement and
+<pb facs="tcp:161475:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:161475:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:161475:7"/>apprehenſion of that truth which is after godlineſs, ſeeing, I ſay, this is your commendable endeavour and ſtudy, I thinke it my duty to contribute what I can to your fur<g ref="char:EOLhyphen"/>therance therein; and for this cauſe, ſhall be at this time, willing to let you know my true ſenſe of the doubts which you make; concerning the Queſtions which are offered by the Parliament unto the Aſſembly of Divines to be reſolved.</p>
+            <p>The Queries whereunto you ſeeke an impartiall An<g ref="char:EOLhyphen"/>ſwer, are two.</p>
+            <p>Firſt, <hi>Whether, yea or no, it be expedient for the Church and State, that the Divines of the Aſſembly ſhould anſwer theſe Queſtions.</hi>
+            </p>
+            <p>Secondly, <hi>If it be expedient that an Anſwer ſhould be given thereunto, then your further Queſtion is, of the man<g ref="char:EOLhyphen"/>ner how that Anſwer ſhould be made: Namely, what muſt be intended to make it ſuch, as will give to thoſe who doubt of the matter, conſcionably juſt ſatisfaction; and will take a<g ref="char:EOLhyphen"/>way from others who deſire no ſatisfaction, but rather pre<g ref="char:EOLhyphen"/>tences of cavilling, all juſt occaſion of contradiction, and of multiplying new Queſtions</hi> in infinitum? For you doe prudently and juſtly conceive that no anſwer will be bet<g ref="char:EOLhyphen"/>ter then one that is not ſatisfactory, becauſe it may be the end of ſome Statiſts and Lawyers is, to make the Queſtion endleſſe: for ſeeing they have not been able to gain either the whole power over the Church, therein to rule all at their own will; or the priviledge to be exempt from all rule of the Church, by an expreſſe Ordinance of Parlia<g ref="char:EOLhyphen"/>ment; it is not unlikely that they will endeavour to gain it ſome other way, namely, by the unſettlement of all, and by Argument; in denying to the Church that which is due to it: and this perhaps they will attempt by ſome endleſſe diſpute about the points of right, to make the
+<pb n="3" facs="tcp:161475:7"/>Civill and Eccleſiaſticall pretences of Right unto power, claſh together irreconciliably. For ſo long as the matter is not decided, they will pretend to a liberty to doe what they liſt; and without controule will caſt the cords of Chriſt from them, which is all the World aims at in this controverſie, as is cleere by <hi>Pſal.</hi> 2.3.</p>
+            <p>Now then although this inconvenience may ſeeme unavoydable as matters now ſtand with us; and although the remedy which you enquire after is ſomewhat difficult to be found; yet I ſhall briefly open my thoughts thereof unto you, if perhaps ſomthing from hence may be hinted to your ſelfe, or others for the facilitating of the worke.</p>
+            <p>Therefore to the firſt Queſtion I ſay, that it will be ve<g ref="char:EOLhyphen"/>ry expedient for the Divines to Anſwer the Queſtion pro<g ref="char:EOLhyphen"/>poſed unto them for theſe three principall cauſes. 1 Be<g ref="char:EOLhyphen"/>cauſe the matter is of ſuch conſequence in reſpect of Chriſt and his Kingdom, that in conſcience they are bound to give a reſolution thereof ſo far as they are able. 2 Becauſe the conſtitution of this State and Church, is ſuch at this time, that except this matter be ſatisfactorily decided, there is no ſettlement at all to be expected therein; and the whole guilt of our publike confuſions will be imputed unto the Divines. 3 Becauſe their call and engagement to give an Anſwer, is ſo publike and Obliga<g ref="char:EOLhyphen"/>tory, that if they decline to doe their duty, they will not onely loſe their reputation in this Cauſe, and moſt of their Authority in the Miniſtry, and give their Adverſaries matter of triumph over them; but they will prejudge ex<g ref="char:EOLhyphen"/>treamly the Rights of all the beſt reformed Churches to their diſadvantage.</p>
+            <p>If theſe Reaſons be well conſidered, it will appeare not onely expedient, but even neceſſary, that an Anſwer be given to the Queſtions which I ſhall briefly endeavour to let you ſee.</p>
+            <pb n="4" facs="tcp:161475:8"/>
+            <p> Firſt, The Importance of the matter is ſuch that to the fundamentall conſtitution and compleat being of a true Church nothing is more neceſſary then to know by what Right the Officers thereof ſtand in their Charges; and how they are authorized to execute the government and judi<g ref="char:EOLhyphen"/>catures belonging thereunto. And if the Royalty of Chriſt power in government and in Spirituall Judicatures, is ſo highly concerned in this matter; that except this plea be maintained, his prerogative over the ſoules of men will be diſclaimed, and given up to the will of worldlings; then certainly no faithfull Miniſter, who doth beleeve him to be the only King of ſouls, can with a good Conſcience be ſilent when this his right is called into Queſtion: for ſee<g ref="char:EOLhyphen"/>ing their calling is to beare witneſſe unto him; their ſilence in ſuch a matter would be a great breach of truſt. And if Chriſt in that good confeſſion which he made before <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate Joh.</hi> 18.35, 36, 37. Did profeſſe that he was in<g ref="char:EOLhyphen"/>deed a King, but that his Kingdome was not of this world: how can any of his Officers in that Kingdome be counted faithfull unto him, if they ſuffer the world to incroach up<g ref="char:EOLhyphen"/>on the Rights of his Juriſdiction? For if they are not of the world; they cannot be given up unto the world: for the Rule is; <hi>give unto Caeſar what is Caeſars, and unto God what is Gods.</hi> Therefore if the Divines of the Aſſembly lay this matter to heart, as believing it to concerne mainly Chriſts Royall Prerogative; I cannot ſee how their Con<g ref="char:EOLhyphen"/>ſcience will ſuffer them to be ſilent in the vindication of his Right: for Chriſt when he himſelfe was queſtioned before a worldly judge concerning the point of Right to his Kingdome; atteſted the Truth thereof although it was laid to his charge as a matter of high treaſon. And having plainly declared that he was a King; he doth adde imme<g ref="char:EOLhyphen"/>diately theſe words. <hi>To this end was I borne; and for this
+<pb n="5" facs="tcp:161475:8"/>cauſe came I into the world, that I ſhould beare witneſſe unto the Truth:</hi> thereby intimating that this was one of thoſe Truths which he was to manifeſt unto the world, although it might be with the perill of his life: and if this was of ſuch importance for him to declare; ſure it is of no leſſe importance for us to know, and in Caſe of doubt to be re<g ref="char:EOLhyphen"/>ſolved of. For as it doth concerne on the one ſide: the Right which Chriſt hath to his Spirituall Crowne that his Title may be cleered; and all worldly pretences of power over it taken away: ſo on the other ſide it doth concerne our Conſciences to be informed under whom they muſt ſtand in point of Judicature; and what Chriſts will and appointment is (who is the undoubted King of ſouls) for the ſettlement of the ſame in doubtfull matters.</p>
+            <p>And as the matter is thus important in reſpect of Chriſt, of his Kingdome, and of our Conſcience in order to him; So it is of that Conſequence to this Church and State; that it brings with it no leſſe then the to tall diſſolution, or happy eſtabliſhment thereof. For if this matter be cleerly determined according to the Word God; then the Churches of this Kingdome may be ordered and ſettled in Peace; and by this meanes the foundation of the State will be ſetled alſo, which now is ſhaken by reaſon of this un-ſettlement: for it is Chriſt, that doth beare up the pil<g ref="char:EOLhyphen"/>lars of the earth, <hi>Pſal.</hi> 75.3. And to him is the gathering of the people, <hi>Gen.</hi> 49.10. (now they cannot be gathered to him without a government, nor can the pillars of the earth ſtand without order) and if the matter be not deter<g ref="char:EOLhyphen"/>mined one way or other, nothing can poſſibly enſue but endleſſe continuance of diviſions and ſtrife, which being remedileſſe without the deciſion of theſe doubts; will at laſt produce inevitable ruine both to Church and State, and the reaſon of this is cleer; becauſe the relations which
+<pb n="6" facs="tcp:161475:9"/>men have unto God in reſpect of Conſcience; not being ſettled, all other relations will be diſſolved, for if Chriſts will be not knowne or regarded in his government of ſpi<g ref="char:EOLhyphen"/>rits, no mans ſpirit will regard the will of any other govern<g ref="char:EOLhyphen"/>ment and power, further then he is either by feare conſtrai<g ref="char:EOLhyphen"/>ned, or for his owne ends, he thinkes good to comply with others to ſerve his own turne of them: for naturally thus farre, and no further one man doth yield unto ano<g ref="char:EOLhyphen"/>ther. So that for want of that Rule whereby mens Con<g ref="char:EOLhyphen"/>ſciences may be wrought upon, and ſpirits directed in the concernment of Religion, to prevent or remedy Scan<g ref="char:EOLhyphen"/>dals: all other Rules will be broken and caſt off; becauſe every man being left to his own arbitrement to doe with<g ref="char:EOLhyphen"/>out the controulement of true ſpirituall government what<g ref="char:EOLhyphen"/>ſoever he pleaſeth in matters of Conſcience; will frame his Conſcience to his own will, and intending only to pleaſe himſelfe, will not regard any other, by any other Rule, then that of his own conveniencie: and if in the greateſt matters, the ſpirits of men will be let looſe, thus to run riot; what ſhall reſtraine or direct them in matters of leſſer concernment? Thus till the Higher Sphere of Government relating the Worſhip of God, be in a right frame, all the lower relating the Outward Man in Civill converſation will be out of order: and where no Order is ſetled in worldly matters; there naturally every one wil or<g ref="char:EOLhyphen"/>der himſelf, according to his ſtrength and other advantages to the prejuduce; and in the end, to the oppreſſion of his neighbor. For naturally he that is ſtrongeſt wil make uſe of his ſtrength to over rule the weaker and ſubject him in all things to his own will; except his Conſcience be over<g ref="char:EOLhyphen"/>awed by the Rules of Religion, and be bonnd up thereby, and made willing to deny himſelfe. For where this is not inwardly, and no Government ſetled outwardly, there
+<pb n="7" facs="tcp:161475:9"/>every one will be oppreſſed by his neighbour;
+<note place="margin">
+                  <hi>Iſa</hi> 3.5.</note> and the child will behave himſelfe proudly againſt the ancienſt, and the baſe againſt the Honourable. Therefore ſeeing the ſetlement of this higher Sphere of Government cannot be brought to paſſe, in this State, at this time without the determination of theſe Queſtions; the guilt of all the evils that will enſue upon our continued un-ſetlement; will lye at the Doore of the Divines of the Aſſembly if they decline to give their Anſwer ſo farre as they are able thereunto.</p>
+            <p>Thirdly, Their engagement is ſuch, that except an An<g ref="char:EOLhyphen"/>ſwer be given they will deſervedly loſe their credit in the loſſe of the Cauſe, and that to the prejudice of all the Reformed Churches of <hi>Europe.</hi>
+            </p>
+            <p>For ſeeing the Divines have declared by their Petition to the Houſes that the Judicature of Scandals, is intrin<g ref="char:EOLhyphen"/>lecall to the Church reſiding in the Officers thereof by Divine Right: and this Declaration not being believed, but a proof thereof demanded, and to make the proof more full and ſatisfactory, Queſtions being framed to ſtate the point of doubt rightly, and they called upon and re<g ref="char:EOLhyphen"/>quired by the Parliament to give and Anſwer thereunto from the Word of God: ſeeing I ſay upon their Petition the matter is come to this iſſue; their credit will be loſt if they ſhew not the grounds of their judgment: for they are accuſed to affect an Arbitrary Power of Judicature; and if they make it not apparent that the Judicature which they challenge is not Arbitrary but Subordinate and Legall in the Kingdome of Chriſt; they ſhall juſtly fall before their Accuſers; and may be counted Preſump<g ref="char:EOLhyphen"/>tuous and Tyrannicall in their places; and conſequently, loſe the Right whereunto they pretend.</p>
+            <p>And although they had not by any Declaration thus
+<pb n="8" facs="tcp:161475:10"/>engaged themſelves in the Cauſe: yet the Supream Ma<g ref="char:EOLhyphen"/>giſtrates call, by whoſe Authority they ſit; and the end wherefore they are called together, doth fully obliege and neceſſitate them to give an Anſwer. For they are comand<g ref="char:EOLhyphen"/>ed by God to be ready to give an Anſwer to every one that doth aske a reaſon of them of their hope, 1 <hi>Pet.</hi> 3.15. And if of their Hope then alſo of their Faith and judgment, whereof they have declared this to be a part.</p>
+            <p>And if to every one then far more to their Magiſtrate, who hath ſet them apart, and authorized them to declare their judgement in matters which be propoſed unto them. It is then a cleer and undoubted duty, whereunto they are bound in Conſcience to apply themſelves: and if they ſhould decline it, it would not only open the mouthes of all their Adverſaries, who already begin to give out that they cannot Anſwer the Queſtions, and therefore have quitted the plea of a <hi>Jus Divinum:</hi> but pre-judge all the Proteſtant Churches Rights, which elſe where they en<g ref="char:EOLhyphen"/>joy under their Civill Magiſtrates without controule, which by this occaſion would become doubtfull and queſtionable. And finally this ſilence, as it would betray the cauſe of the Church to the world, and involue all into confuſion; ſo it would no doubt bring ſome exemplary judgement both upon theſe that decline ſo neceſſary a du<g ref="char:EOLhyphen"/>ty in ſuch a time of Reformation; and upon the whole Miniſtery of this land, which juſtly would become for this cauſe more contemptible, then any in al the world beſides.</p>
+            <p>For theſe Reaſons I conceive it not only expedient, but even neceſſary that the Divines of the Aſſembly ſhould ſet themſelves as one man to Anſwer the Queſtions ſatiſ<g ref="char:EOLhyphen"/>factorily, ſo farre as God ſhall enable them.</p>
+            <p>But now to ſpeake to the ſecond Queſtion, how this may be done both ſatisfactorily to the conſcionable, and
+<pb n="9" facs="tcp:161475:10"/>alſo fully to the unconſcionable, ſo as to prevent cavilling and multiplying of new Queſtions, is a matter of no ſmall difficulty to determine: yet let us try what may be ſaid unto it.</p>
+            <p>I ſuppoſe then to reſolve any doubt ſatisfactorily, two things are requiſite. Firſt, the minde muſt be free from all prejudicate opinions. Secondly, ſome evident and un<g ref="char:EOLhyphen"/>denyable rules muſt be known and followed, by which the matter in doubt may be determined. For if the minde be not free from prejudice, it is not capable of any rule, and although it be free from prejudice, if it want a ſure rule to walke by in the ſearch of truths, it will never be ſatisfactorily reſolved of doubts: but if both it be free from all foreſtallment and partiality: and hath alſo a ſure directory to lead it unto the diſcovery of hidden matters then it may be able both to find out and hold forth the reſolution of doubts demonſtratively: for to prevent Ca<g ref="char:EOLhyphen"/>villing it is neceſſary, both that the way of finding out and of holding forth Truth be Demonſtrative.</p>
+            <p>If therefore the Divines being free from all partiality, and minding nothing but the ſimple manifeſtation of the truth in their heart (as I am perſwaded they will doe ac<g ref="char:EOLhyphen"/>cording to the Proteſtation which they made at their en<g ref="char:EOLhyphen"/>trance into the Aſſembly) can ſhew an undenyable Rule by which the truth of doubtfull matters in Divinity may certainly be found out, and can make it apparent; that in the ſearch of a Reſolution to theſe Queſtions they have followed that rule without wavering from it: then I ſup<g ref="char:EOLhyphen"/>poſe, that the thing which you require to be done, may be effected; namely, that the conſcionable will be ſatisfi<g ref="char:EOLhyphen"/>ed, the unconſcionable cut off from cavilling pretences, becauſe all matters of doubt (if they hold faſt received Principles, and wil not fall to Scepticiſme) will be redu<g ref="char:EOLhyphen"/>ced
+<pb n="10" facs="tcp:161475:11"/>to theſe two neads: namely, to the ſufficiencie of the rules by which they proceed to diſcover Truths; or to the right application of thoſe rules, unto the Queſtions to be reſolved, for if no exception can be made, neither againſt the Rules of the diſcovery of Truth in themſelves, nor at the uſe which is made of them, for the determination of matters in hand; then I ſuppoſe all Objections will be prevented.</p>
+            <p>Therefore if I might have my wiſh, I could deſire that all Divines or conſcionable men, before they ſet upon any Queſtions, to reſolve them in particular: would ſet down the Rules by which they doe order themſelves in their meditations, for the impartiall deciſion of Scripturall doubts. This I would have them to doe, that they may be able to make it appear upon due ſearch, that their way in anſwering doubts is cleere before them; that they are not ſwayed by any intereſt of their own, or by any fore<g ref="char:EOLhyphen"/>ſtallment of received opinions from other men of their own ſide, or by any other thing in the courſe of Humane Learning, which might have any influence upon them to byas their thoughts, and take them off from the ſimpli<g ref="char:EOLhyphen"/>city of the Goſpel; but that their light doth come cleerly from the Word it ſelfe alone, by a Scientificall way of truth, demonſtrable unto all men of capacity to be ſuch, and riſing from ſuch undenyable principles of interpreta<g ref="char:EOLhyphen"/>tion, which all underſtanding Chriſtians do acknowledge and receive as undoubted, for when men can give an ac<g ref="char:EOLhyphen"/>count unto themſelves, by a ſearch of their own intelle<g ref="char:EOLhyphen"/>ctuall proceedings; that the light which they held forth from the Word unto others is thus begotten in them; they need not feare to be much contradicted, if they can but make themſelves to be underſtood in what they hold forth; or ſeriouſly minded and conſidered in the way by
+<pb n="11" facs="tcp:161475:11"/>which they hold it forth in doubtfull caſes. And truly, becauſe the way of Scripturall interpretation is not agreed upon amongſt Divines, therefore moſt men are led rather by opinion to deliver the meaning of the Text conjectu<g ref="char:EOLhyphen"/>rally, then by Scientificall grounds demonſtratively: But if the Chriſtian World could once be made ſo happy, as to be taught a cleere and plain rule of Scripturall interpre<g ref="char:EOLhyphen"/>tation, and a method to apply plain Scripturall truths unto doubtfull caſes of conſcience, for the reſolution of the ſame, and if theſe two things ſhould be publiſhed to the Chriſtian World, and made upon ſufficient tryall demon<g ref="char:EOLhyphen"/>ſtrable to all men of capacity; then a ground would be laid for a greater matter then the reſolution of theſe Par<g ref="char:EOLhyphen"/>liamentary Queſtions, namely, for the ending of all vain janglings and confuſed diſputes about matters Doctrinall and Practicall in Divinity.</p>
+            <p>For if theſe two Rules can be found out and made uſe of in theſe Queries, not onely all obloquie would be pre<g ref="char:EOLhyphen"/>vented in this matter; but a Way found to direct all men that are impartially rationall, to enlarge the knowledge of Scripturall truths from the Scripture it ſelfe, and Scrip<g ref="char:EOLhyphen"/>turall grounds; ſo as to avoid the intanglements of meer humane and Philoſophicall notions; and the deceits of a Science ſalfly ſo called, becauſe the Rules, by which they in this matter ſhould proceed, univerſally ſit to de<g ref="char:EOLhyphen"/>termine other doubts of the ſame kinde, ſo far as by the opening of the ſenſe of holy Scriptures, and by the appli<g ref="char:EOLhyphen"/>cation thereof unto humane caſes, they are determinable. And that ſome ſuch Rules may be found; and muſt be fought after, if ever we ſhould receive ſatisfaction in Scripturall doubts, may thus be made apparent. Firſt, we all confeſſe that nothing is to be received as a Divine Truth, but that which is atteſted by the Word, or conſo<g ref="char:EOLhyphen"/>nant
+<pb n="12" facs="tcp:161475:12"/>unto the Teſtimonies thereof. Now it is cleer that the Word cannot be ſaid properly to atteſt any thing to us, except we underſtand the meaning thereof. Nor can we be ſaid to underſtand the meaning thereof, except we know a reaſon why we co<g ref="char:cmbAbbrStroke">̄</g>ceive it to be ſo as we apprehend it to be, and not otherwiſe; nor can ſuch a reaſon be knowne without ſome Rules of Interpretation and Meditation, which are demonſtrable to lead the mindes of thoſe that uſe the ſame, into Truth. Nor can theſe Rules be de<g ref="char:EOLhyphen"/>monſtrable, except they ariſe from ſuch Common and undeniable Principles which all Rationall men in matters of that kind do take as granted, ſeeing I ſay theſe things are ſo; it followeth that if there be ſuch Principles, then from theſe Rules may be taken to lead the doubting mind unto the apprehenſion of Truth: and if ſuch Rules may be had they ſhould be held forth: for if they can not be held forth, no reaſon can be given of any Scripturall inter<g ref="char:EOLhyphen"/>pretation; and all interpretations are alike to be received; but this being abſurd and deſtructive to all common Prin<g ref="char:EOLhyphen"/>ciples and to the Analogy of Faith, it followeth evidently that Rules may be had, and muſt be ſought after and knowne and received before any Scripturall doubts and diſputable matters can be reſolved ſatisfactorily.</p>
+            <p>Therefore the onely true Meanes to prevent contradi<g ref="char:EOLhyphen"/>ctions and endleſſe debates, will be to ſhew the method of intellectuall proceedings, unpartially regulated towards the deciſion of doubts, and ſufficiently fitted without all exception, to diſcover and finde out truths, as well in theſe as in all other doubts of the ſame kinde, for except the Rules and method be univerſall to hold in all, it can<g ref="char:EOLhyphen"/>not be truſted in any particulars, for we know that it is the ordinary courſe of moſt men in controverſall points: firſt, to conceive a poſition anſwerably to their capacity
+<pb n="13" facs="tcp:161475:12"/>and intereſt; and then to ſeeke out places of Scripture by which it may be made good. This is to build the wall firſt, and then to fit the Rule unto it; whence it is that the Scripture is made to ſpeake ſo different ſenſes, as men for the maintaining of their ſeverall Opinions can probably wreſt it unto. But if we would know the truth indeed; we ſhould look upon our own opinions as doubtfull matters; and having no ayme but to examine them by the Word; we ſhould come to the meditation of the word by a cleer Rule; and having found the truth atteſted by the Word it ſhould be made a line and plummer, by which all particu<g ref="char:EOLhyphen"/>lar opinions in debate ſhould be ſquared; for in ſo doing the wall would be fitted to the Rule. And except men be willing to lay down the love of their own tenents, and to ſuſpect themſelves that they may be led out of the way by their own foreſtallments; or fail to enter rightly upon the way, or ſtray from it after they are entred, for want of conſtant and ſufficient light; except I ſay they will ſuſpect that they may erre ſome of theſe or all theſe wayes; they will never be carefull to prevent the deceits of their own thoughts unto which men are liable; and if they be not carefull of this they will never be ſure that they have found the Truth.</p>
+            <p>Therefore in this doubtfull matter which is of ſuch main concernment, as that unto this particular Church and State I know nothing of greater or equall importance at this time; I could wiſh that amongſt thoſe who were in doubts, in agreement were made of the Rule; by which men ſhould proceed to Anſwer doubtfull Queſtions ſatiſ<g ref="char:EOLhyphen"/>factorily, and before my deciſion ſhould be given to any Queries or caſes of Conſcience, I would have them always to declare their whole Method of proceeding by way of <hi>Prolegomenon</hi> or Preface. And if in theſe particular my ad<g ref="char:EOLhyphen"/>vice
+<pb n="14" facs="tcp:161475:13"/>could be taken; the Method ſhould be this; firſt to collect out of the whole Scripture, but chiefly out of the New Teſtament, all the places of Scripture which ſpeake cleerly of the Church of Chriſt and of the Government thereof. Theſe places they ſhould Analyſe each by them<g ref="char:EOLhyphen"/>ſelves to finde the true ſenſe thereof, and demonſtrate the the ſame by a Rule of Interpretation, which ſhould be un<g ref="char:EOLhyphen"/>deniable.</p>
+            <p>Having found the ſenſe of every place, they ſhould caſt the matter of Truth gathered from them into ſo many ſim<g ref="char:EOLhyphen"/>ple or compound Propoſitions as that matter wil conveni<g ref="char:EOLhyphen"/>ently afford, diſtinguiſhing them into ſeverall heads. Theſe Propoſitions ſhould be ſet a part as Rules fit to be made uſe of for the determination of the doubts propoſed. Ha<g ref="char:EOLhyphen"/>ving found all the Rules, which the Scripture doth yield; they ſhould Analyſe the Queſtions alſo and ſhew the point of doubt diſtinctly which ſhould be determined; then they ſhould proceed to compare the matter queſtionable with that which the Scripture hath already determined, and from the proportion which ſhall be found of the one to the other, in their Agreement or Diſagreement, a concluſion will reſult to determine the whole matter: and to ſhew that the inference of the concluſion is according to truth, the Reaſon of the Method of the Application might be declared; That when it ſhall appeare that nothing is done Magiſterially; but by a Rule, directing the mind unto the the diſcovery of Truth; all exceptions may be cut off: for in caſe no fault can be found, neither in the Rules of pro<g ref="char:EOLhyphen"/>ceeding: nor in the proceedings according to Rules, cavil<g ref="char:EOLhyphen"/>ling will be prevented, and the danger of endleſſe debates incident to theſe and all other matters, will be taken away, which I beſeech the Lord at laſt to bring to paſſe for his own name ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
